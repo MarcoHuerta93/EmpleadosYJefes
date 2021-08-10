@@ -18,7 +18,7 @@ namespace EmpleadosYJefes
         //método
         public void Dirigir()
         {
-            Console.WriteLine("Estoy liderando mi empresa");
+            Console.WriteLine("Me llamo {0} {1}, y estoy liderando mi empresa, pero conduzco {2}", Nombre, Apellido, AutoDeEmpresa);
         }
 
     }

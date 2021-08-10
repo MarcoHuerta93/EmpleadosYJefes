@@ -1,0 +1,6 @@
+/Users/marcohuerta/Projects/EmpleadosYJefes/EmpleadosYJefes/bin/Debug/EmpleadosYJefes.exe
+/Users/marcohuerta/Projects/EmpleadosYJefes/EmpleadosYJefes/bin/Debug/EmpleadosYJefes.pdb
+/Users/marcohuerta/Projects/EmpleadosYJefes/EmpleadosYJefes/obj/Debug/EmpleadosYJefes.csproj.AssemblyReference.cache
+/Users/marcohuerta/Projects/EmpleadosYJefes/EmpleadosYJefes/obj/Debug/EmpleadosYJefes.csproj.CoreCompileInputs.cache
+/Users/marcohuerta/Projects/EmpleadosYJefes/EmpleadosYJefes/obj/Debug/EmpleadosYJefes.exe
+/Users/marcohuerta/Projects/EmpleadosYJefes/EmpleadosYJefes/obj/Debug/EmpleadosYJefes.pdb

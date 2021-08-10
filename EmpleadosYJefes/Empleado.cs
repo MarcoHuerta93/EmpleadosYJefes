@@ -9,7 +9,7 @@ namespace EmpleadosYJefes
         public string Apellido { get; set; }
         public int Salario { get; set; }
 
-        //Constructores
+        //Constructor por defecto
         public Empleado()
         {
             Nombre = "Marco";

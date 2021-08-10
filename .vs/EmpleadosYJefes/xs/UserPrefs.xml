@@ -1,17 +1,18 @@
 ﻿<Properties StartupConfiguration="{52C063DA-14B3-487C-853A-066CBA4CAA40}|Default">
-  <MonoDevelop.Ide.ItemProperties.EmpleadosYJefes FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="EmpleadosYJefes/Jefe.cs">
+  <MonoDevelop.Ide.ItemProperties.EmpleadosYJefes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EmpleadosYJefes/Pasante.cs">
     <Files>
-      <File FileName="EmpleadosYJefes/Program.cs" Line="9" Column="13" />
-      <File FileName="EmpleadosYJefes/Empleado.cs" Line="39" Column="10" />
-      <File FileName="EmpleadosYJefes/Jefe.cs" Line="4" Column="17" />
+      <File FileName="EmpleadosYJefes/Program.cs" Line="14" Column="35" />
+      <File FileName="EmpleadosYJefes/Empleado.cs" Line="12" Column="34" />
+      <File FileName="EmpleadosYJefes/Jefe.cs" Line="21" Column="96" />
+      <File FileName="EmpleadosYJefes/Pasante.cs" Line="5" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="EmpleadosYJefes" expanded="True">
             <Node name="EmpleadosYJefes" expanded="True">
-              <Node name="Jefe.cs" selected="True" />
+              <Node name="Pasante.cs" selected="True" />
             </Node>
           </Node>
         </State>
