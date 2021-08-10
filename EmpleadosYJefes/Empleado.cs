@@ -25,6 +25,17 @@ namespace EmpleadosYJefes
             this.Apellido = apellido;
             this.Salario = salario;
         }
-        
+
+
+        //Métodos
+        public void Trabajar()
+        {
+            Console.WriteLine("Estoy trabajando");
+        }
+
+        public void Descansar()
+        {
+            Console.WriteLine("Estoy descansando");
+        }
     }
 }
